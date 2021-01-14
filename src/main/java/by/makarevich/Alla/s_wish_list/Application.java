@@ -1,6 +1,5 @@
 package by.makarevich.Alla.s_wish_list;
 
-import by.makarevich.Alla.s_wish_list.commands.BotCommand;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.telegram.telegrambots.ApiContextInitializer;
