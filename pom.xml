@@ -68,7 +68,8 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <mainClass>Application</mainClass>
+                                <addClasspath>true</addClasspath>
+                                <mainClass>by.makarevich.Alla.s_wish_list.Application</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
